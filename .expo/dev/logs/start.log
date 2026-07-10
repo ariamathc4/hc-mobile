@@ -82,3 +82,106 @@
 {"_e":"metro:client_log","_t":1783724781899,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
 {"_e":"metro:client_log","_t":1783724781917,"level":"log","data":["OAuth Code:","Hugzet0HhQI6_YNFDf2OWuP6TcmDm4RIk5vjJ3Xxoo4"]}
 {"_e":"metro:client_log","_t":1783724781919,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1783725126033,"id":"15","platform":"web","environment":null,"entry":"app/dashboard.jsx"}
+{"_e":"metro:client_log","_t":1783725126079,"level":"warn","data":["Route \"./dashboard.jsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1783725126092,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\"]"]}
+{"_e":"metro:client_log","_t":1783725126110,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\"]"]}
+{"_e":"metro:bundling:started","_t":1783725127493,"id":"17","platform":"web","environment":null,"entry":"app/dashboard.jsx"}
+{"_e":"metro:client_log","_t":1783725128080,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\"]"]}
+{"_e":"metro:client_log","_t":1783725128092,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\"]"]}
+{"_e":"metro:bundling:started","_t":1783725144869,"id":"19","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725144869,"id":"19","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783725144906,"id":"19","total":1,"ms":36.889334}
+{"_e":"metro:client_log","_t":1783725144999,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725144999,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725145016,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1783725237415,"id":"1c","platform":"web","environment":null,"entry":"app/redirect.jsx"}
+{"_e":"metro:client_log","_t":1783725238085,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:client_log","_t":1783725238101,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"root:init","_t":1783725245883,"format":"v0-jsonl","version":"57.0.6"}
+{"_e":"env:mode","_t":1783725245883,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1783725245885,"mode":"development","files":["../../../.env"],"env":{"EXPO_PUBLIC_CLIENT_ID":"c0d8f9b4be4e844e4adea00fa6f2881b","EXPO_PUBLIC_REDIRECT_URL":"http://localhost:8081/redirect"}}
+{"_e":"devserver:start","_t":1783725246316,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1783725246484,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1783725246566,"plugins":[]}
+{"_e":"metro:instantiate","_t":1783725246775,"atlas":false,"workers":7,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1783725247401,"id":"2","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725247401,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783725247406,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783725247506,"id":"2","progress":0.356268074067093,"total":449,"current":268}
+{"_e":"metro:bundling:progress","_t":1783725247606,"id":"2","progress":0.9055308756929451,"total":847,"current":806}
+{"_e":"metro:bundling:progress","_t":1783725247707,"id":"2","progress":0.9978575260571932,"total":933,"current":932}
+{"_e":"metro:bundling:progress","_t":1783725247772,"id":"2","progress":0.999,"total":933,"current":933}
+{"_e":"metro:bundling:done","_t":1783725247796,"id":"2","total":933,"ms":395.292792}
+{"_e":"metro:client_log","_t":1783725247921,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725247921,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725247933,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:client_log","_t":1783725248268,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:bundling:started","_t":1783725252660,"id":"7","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725252660,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783725252695,"id":"7","total":1,"ms":35.29475}
+{"_e":"metro:client_log","_t":1783725252789,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725252789,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725252802,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:client_log","_t":1783725252811,"level":"log","data":["OAuth Code:","caK9Du-OgzhUu_ReOn9PaLG94XUs05uA_NWUZzHZwEg"]}
+{"_e":"root:init","_t":1783725458392,"format":"v0-jsonl","version":"57.0.6"}
+{"_e":"env:mode","_t":1783725458393,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1783725458394,"mode":"development","files":["../../../.env"],"env":{"EXPO_PUBLIC_CLIENT_ID":"c0d8f9b4be4e844e4adea00fa6f2881b","EXPO_PUBLIC_REDIRECT_URL":"http://localhost:8081/redirect"}}
+{"_e":"devserver:start","_t":1783725458821,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1783725458990,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1783725459070,"plugins":[]}
+{"_e":"metro:instantiate","_t":1783725459261,"atlas":false,"workers":7,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1783725459649,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725459649,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783725459666,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783725459766,"id":"1","progress":0.3296054323333667,"total":479,"current":275}
+{"_e":"metro:bundling:progress","_t":1783725459866,"id":"1","progress":0.9197124428916957,"total":854,"current":819}
+{"_e":"metro:bundling:done","_t":1783725459909,"id":"1","total":854,"ms":259.544417}
+{"_e":"metro:client_log","_t":1783725460048,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725460049,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725460066,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:client_log","_t":1783725460389,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:bundling:started","_t":1783725465679,"id":"7","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725465679,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783725465715,"id":"7","total":1,"ms":35.79475}
+{"_e":"metro:client_log","_t":1783725465818,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725465819,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725465830,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:client_log","_t":1783725465840,"level":"log","data":["OAuth Code:","fr6wODbsg_NjR5yp9KQAo_pyG9GoiR9qQ6CNoxQ1dE4"]}
+{"_e":"metro:bundling:started","_t":1783725545928,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725545928,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783725545965,"id":"9","total":1,"ms":37.340416}
+{"_e":"metro:client_log","_t":1783725546073,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725546074,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725546084,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"metro:client_log","_t":1783725546102,"level":"warn","data":["[Layout children]: No route named \"register\" exists in nested children:","[\"dashboard\", \"index\", \"redirect\"]"]}
+{"_e":"root:init","_t":1783725655612,"format":"v0-jsonl","version":"57.0.6"}
+{"_e":"env:mode","_t":1783725655612,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1783725655613,"mode":"development","files":["../../../.env"],"env":{"EXPO_PUBLIC_CLIENT_ID":"c0d8f9b4be4e844e4adea00fa6f2881b","EXPO_PUBLIC_REDIRECT_URL":"http://localhost:8081/redirect"}}
+{"_e":"devserver:start","_t":1783725656013,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1783725656162,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1783725656243,"plugins":[]}
+{"_e":"metro:instantiate","_t":1783725656442,"atlas":false,"workers":7,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1783725657338,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725657339,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783725657342,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783725657449,"id":"1","progress":0.07760204081632653,"total":140,"current":39}
+{"_e":"metro:bundling:progress","_t":1783725657546,"id":"1","progress":0.1111111111111111,"total":234,"current":78}
+{"_e":"metro:bundling:progress","_t":1783725657646,"id":"1","progress":0.3551947146045919,"total":448,"current":267}
+{"_e":"metro:bundling:progress","_t":1783725657746,"id":"1","progress":0.8881214556901191,"total":816,"current":769}
+{"_e":"metro:bundling:progress","_t":1783725657846,"id":"1","progress":0.9977490159077996,"total":888,"current":887}
+{"_e":"metro:bundling:progress","_t":1783725657909,"id":"1","progress":0.999,"total":888,"current":888}
+{"_e":"metro:bundling:done","_t":1783725657958,"id":"1","total":888,"ms":619.372125}
+{"_e":"metro:client_log","_t":1783725658054,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725658055,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1783725662210,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725662210,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783725662238,"id":"5","total":1,"ms":27.91275}
+{"_e":"metro:client_log","_t":1783725662332,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725662332,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1783725676072,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783725676072,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783725676107,"id":"b","total":1,"ms":34.793959}
+{"_e":"metro:client_log","_t":1783725676199,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783725676200,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783725676220,"level":"log","data":["OAuth Code:","MFdsGQyHXl1j63DWjWKLTHp1ndkySdE4qEpL_jaStrg"]}

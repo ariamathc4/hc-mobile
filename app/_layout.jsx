@@ -5,18 +5,13 @@ import {
   Poppins_600SemiBold,
 } from "@expo-google-fonts/poppins";
 
-const RootLayout = () => {
+export default function RootLayout() {
   const [fontsLoaded] = useFonts({
     Poppins_400Regular,
     Poppins_600SemiBold,
   });
 
-  return (
-    <Stack>
-      <Stack.Screen name="index" options={{ headerShown: false }} />
-      <Stack.Screen name="register" options={{ headerShown: false }} />
-    </Stack>
-  );
-};
+  if (!fontsLoaded) return null;
 
-export default RootLayout;
+  return <Stack screenOptions={{ headerShown: false }} />;
+}
