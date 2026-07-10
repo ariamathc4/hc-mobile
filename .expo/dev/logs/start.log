@@ -1,0 +1,56 @@
+{"_e":"root:init","_t":1783723862853,"format":"v0-jsonl","version":"57.0.6"}
+{"_e":"env:mode","_t":1783723862853,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1783723862854,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1783723863192,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1783723863271,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1783723863335,"plugins":[]}
+{"_e":"metro:instantiate","_t":1783723863457,"atlas":false,"workers":7,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1783723864390,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783723864390,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783723864392,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783723864584,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1783723864684,"id":"1","progress":0.16000000000000003,"total":10,"current":4}
+{"_e":"metro:bundling:progress","_t":1783723864796,"id":"1","progress":0.25,"total":10,"current":5}
+{"_e":"metro:bundling:progress","_t":1783723864896,"id":"1","progress":0.25,"total":143,"current":46}
+{"_e":"metro:bundling:progress","_t":1783723864998,"id":"1","progress":0.25,"total":190,"current":91}
+{"_e":"metro:bundling:progress","_t":1783723865105,"id":"1","progress":0.4143814846989788,"total":247,"current":159}
+{"_e":"metro:bundling:progress","_t":1783723865205,"id":"1","progress":0.4143814846989788,"total":400,"current":239}
+{"_e":"metro:bundling:progress","_t":1783723865306,"id":"1","progress":0.5165028378215192,"total":455,"current":327}
+{"_e":"metro:bundling:progress","_t":1783723865406,"id":"1","progress":0.5165028378215192,"total":576,"current":402}
+{"_e":"metro:bundling:progress","_t":1783723865506,"id":"1","progress":0.5734753511169761,"total":618,"current":468}
+{"_e":"metro:bundling:progress","_t":1783723865607,"id":"1","progress":0.602428677663602,"total":688,"current":534}
+{"_e":"metro:bundling:progress","_t":1783723865708,"id":"1","progress":0.6910193229351894,"total":729,"current":606}
+{"_e":"metro:bundling:progress","_t":1783723865808,"id":"1","progress":0.8323836129585244,"total":753,"current":687}
+{"_e":"metro:bundling:progress","_t":1783723865908,"id":"1","progress":0.9064724206001846,"total":814,"current":775}
+{"_e":"metro:bundling:progress","_t":1783723866009,"id":"1","progress":0.9598255650642056,"total":887,"current":869}
+{"_e":"metro:bundling:failed","_t":1783723866060,"id":"1","message":"Unable to resolve \"@expo/vector-icons/AntDesign\" from \"app/index.jsx\"\n  1 | import { Text, TextInput, Pressable, ScrollView } from \"react-native\";\n  2 | import { Link } from \"expo-router\";\n> 3 | import AntDesign from \"@expo/vector-icons/AntDesign\";\n    |                        ^\n  4 | import { globalStyles } from \"../styles/globalStyles\";\n  5 |\n  6 | const Login = () => {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mapp/index.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/AntDesign\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons/AntDesign","originModulePath":"app/index.jsx"}
+{"_e":"metro:bundling:started","_t":1783723867253,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783723867253,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783723867254,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783723867354,"id":"3","progress":0.5356891663781164,"total":608,"current":445}
+{"_e":"metro:bundling:failed","_t":1783723867412,"id":"3","message":"Unable to resolve \"@expo/vector-icons/AntDesign\" from \"app/index.jsx\"\n  1 | import { Text, TextInput, Pressable, ScrollView } from \"react-native\";\n  2 | import { Link } from \"expo-router\";\n> 3 | import AntDesign from \"@expo/vector-icons/AntDesign\";\n    |                        ^\n  4 | import { globalStyles } from \"../styles/globalStyles\";\n  5 |\n  6 | const Login = () => {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mapp/index.jsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons/AntDesign\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons/AntDesign","originModulePath":"app/index.jsx"}
+{"_e":"metro:bundling:started","_t":1783724020011,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783724020011,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783724020013,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1783724020113,"id":"5","progress":0.2082443959531839,"total":355,"current":162}
+{"_e":"metro:bundling:progress","_t":1783724020213,"id":"5","progress":0.8666609977695071,"total":782,"current":728}
+{"_e":"metro:bundling:done","_t":1783724020278,"id":"5","total":782,"ms":266.367958}
+{"_e":"metro:client_log","_t":1783724020384,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783724020384,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783724020392,"level":"warn","data":["[Layout children]: Too many screens defined. Route \"register\" is extraneous."]}
+{"_e":"metro:client_log","_t":1783724020418,"level":"warn","data":["[Layout children]: Too many screens defined. Route \"register\" is extraneous."]}
+{"_e":"metro:bundling:started","_t":1783724020676,"id":"a","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783724020676,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783724020710,"id":"a","total":1,"ms":34.690125}
+{"_e":"metro:client_log","_t":1783724020783,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783724020784,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783724020786,"level":"warn","data":["[Layout children]: Too many screens defined. Route \"register\" is extraneous."]}
+{"_e":"metro:client_log","_t":1783724020797,"level":"warn","data":["[Layout children]: Too many screens defined. Route \"register\" is extraneous."]}
+{"_e":"metro:client_log","_t":1783724025737,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:client_log","_t":1783724027467,"level":"warn","data":["[Layout children]: Too many screens defined. Route \"register\" is extraneous."]}
+{"_e":"metro:client_log","_t":1783724027478,"level":"warn","data":["[Layout children]: Too many screens defined. Route \"register\" is extraneous."]}
+{"_e":"metro:bundling:started","_t":1783724046286,"id":"j","platform":"web","environment":null,"entry":"app/index.jsx"}
+{"_e":"metro:bundling:started","_t":1783724055681,"id":"k","platform":"web","environment":null,"entry":"app/index.jsx"}
+{"_e":"metro:bundling:started","_t":1783724064166,"id":"l","platform":"web","environment":null,"entry":"app/index.jsx"}
+{"_e":"metro:bundling:started","_t":1783724200369,"id":"m","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
+{"_e":"metro:bundling:started","_t":1783724200370,"id":"n","platform":"web","environment":null,"entry":"app/index.jsx"}
