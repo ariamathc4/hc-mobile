@@ -75,3 +75,10 @@
 {"_e":"metro:bundling:started","_t":1783724757102,"id":"10","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
 {"_e":"metro:bundling:started","_t":1783724760580,"id":"11","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
 {"_e":"metro:bundling:started","_t":1783724768113,"id":"12","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
+{"_e":"metro:bundling:started","_t":1783724781763,"id":"14","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1783724781763,"id":"14","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1783724781800,"id":"14","total":1,"ms":37.492625}
+{"_e":"metro:client_log","_t":1783724781898,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1783724781899,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1783724781917,"level":"log","data":["OAuth Code:","Hugzet0HhQI6_YNFDf2OWuP6TcmDm4RIk5vjJ3Xxoo4"]}
+{"_e":"metro:client_log","_t":1783724781919,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
