@@ -71,3 +71,7 @@
 {"_e":"metro:client_log","_t":1783724721456,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
 {"_e":"metro:client_log","_t":1783724721475,"level":"log","data":["OAuth Code:","mrn5ZNpQP2O67nkyAYAjhmnr2Z-Ypud5R3sS3Y_q7A4"]}
 {"_e":"metro:client_log","_t":1783724721477,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1783724755259,"id":"z","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
+{"_e":"metro:bundling:started","_t":1783724757102,"id":"10","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
+{"_e":"metro:bundling:started","_t":1783724760580,"id":"11","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}
+{"_e":"metro:bundling:started","_t":1783724768113,"id":"12","platform":"web","environment":null,"entry":"components/LoginForm.jsx"}

@@ -35,15 +35,6 @@ const LoginForm = () => {
       <Text style={globalStyles.welcomeText}>Welcome Back</Text>
       <Text style={globalStyles.subtitle}>Sign in to your account</Text>
 
-      <TextInput
-        style={globalStyles.input}
-        placeholder="Email Address"
-        placeholderTextColor="#aaa"
-        keyboardType="email-address"
-        autoCapitalize="none"
-        autoCorrect={false}
-        textContentType="emailAddress"
-      />
 
 
       <Pressable
@@ -51,7 +42,7 @@ const LoginForm = () => {
         disabled={!request}
         onPress={() => promptAsync()}
       >
-        <Text style={globalStyles.buttonText}>Sign In</Text>
+        <Text style={globalStyles.buttonText}>Sign In With Hackclub.</Text>
       </Pressable>
 
       <Text style={globalStyles.terms}>
